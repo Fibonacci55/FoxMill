@@ -248,19 +248,12 @@ class FoxMill(Game):
 
         print ("p", p, type(p))
         if p % 2 == 0:
-            #to_check = ["%s_%s" % (pos.ring, i) for i in map(mod_size, [p-2, p-1, p])] + \
-            #           ["%s_%s" % (pos.ring, i) for i in map(mod_size, [p,p+1, p+2])]
             to_check = [self.ml(pos.ring, p-2, p-1, p)] + [self.ml(pos.ring, p,p+1, p+2)]
             print ("To Check / p == 0 % 2", to_check)
         else:
             to_check = [["%s_%s" % (s, p) for s in self.board.rings]] + [self.ml(pos.ring, p-1, p, p+1)]
-            #print ("To_Check p == 1 % 2", to_check)
-            #if pos.ring == "Middle":
-            #    print ("P", p, type(p))
-            #    to_check += [self.ml(pos.ring, p-1, p, p+1)]
 
         stone = self.board.get_attribute(str(pos))
-        #print (stone)
         check_stone = lambda x: self.stones_of_same_player(stone, self.board.get_attribute (str(x)))
         print ("=== End Check %s ==" % str(pos))
         return any([all(map(check_stone, l)) for l in to_check])
