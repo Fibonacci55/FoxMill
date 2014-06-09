@@ -1,0 +1,83 @@
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Inner_5', 'Outer_8', 'Outer_5', 'Outer_7', 'Outer_1', 'Middle_3', 'Middle_9', 'Inner_7', 'Outer_9', 'Inner_0', 'Inner_1', 'Outer_6', 'Middle_7', 'Middle_6', 'Inner_4', 'Outer_4', 'Inner_9', 'Middle_8', 'Inner_8', 'Inner_2', 'Middle_5', 'Middle_4', 'Outer_2', 'Inner_3', 'Inner_6', 'Outer_3', 'Outer_0']
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_9', 'Outer_6', 'Outer_3', 'Inner_1', 'Outer_1', 'Inner_0', 'Middle_7', 'Middle_3', 'Outer_5', 'Inner_4', 'Outer_8', 'Inner_3', 'Middle_8', 'Middle_4', 'Outer_2', 'Middle_6', 'Inner_8', 'Outer_7', 'Outer_0', 'Inner_9', 'Middle_9', 'Inner_2', 'Inner_6', 'Outer_4', 'Inner_5', 'Middle_5', 'Inner_7']
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Inner_5', 'Outer_2', 'Inner_6', 'Middle_3', 'Middle_4', 'Inner_1', 'Outer_7', 'Inner_0', 'Outer_8', 'Outer_5', 'Inner_2', 'Middle_9', 'Inner_8', 'Outer_1', 'Outer_6', 'Middle_7', 'Inner_4', 'Middle_5', 'Outer_4', 'Middle_8', 'Outer_9', 'Inner_3', 'Middle_6', 'Inner_7', 'Outer_0', 'Inner_9', 'Outer_3']
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Inner_8', 'Inner_5', 'Middle_5', 'Outer_3', 'Outer_8', 'Middle_7', 'Outer_7', 'Inner_1', 'Outer_5', 'Outer_9', 'Inner_7', 'Inner_0', 'Middle_9', 'Inner_6', 'Inner_3', 'Inner_2', 'Middle_3', 'Outer_2', 'Inner_4', 'Outer_4', 'Inner_9', 'Middle_6', 'Middle_4', 'Outer_1', 'Middle_8', 'Outer_0', 'Outer_6']
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Inner_3', 'Inner_1', 'Inner_8', 'Middle_5', 'Inner_0', 'Middle_7', 'Inner_9', 'Middle_3', 'Middle_9', 'Outer_3', 'Outer_9', 'Inner_6', 'Middle_6', 'Outer_0', 'Outer_4', 'Outer_6', 'Outer_8', 'Outer_2', 'Outer_7', 'Middle_8', 'Outer_5', 'Middle_4', 'Inner_5', 'Inner_7', 'Inner_4', 'Inner_2', 'Outer_1']
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_3', 'Inner_8', 'Inner_0', 'Outer_1', 'Inner_7', 'Middle_7', 'Inner_6', 'Middle_9', 'Inner_3', 'Outer_5', 'Middle_8', 'Outer_2', 'Inner_9', 'Middle_4', 'Outer_0', 'Outer_8', 'Inner_2', 'Outer_7', 'Outer_4', 'Outer_6', 'Middle_5', 'Middle_6', 'Outer_3', 'Inner_5', 'Inner_4', 'Inner_1', 'Outer_9']
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_3', 'Outer_1', 'Outer_2', 'Middle_8', 'Middle_5', 'Middle_4', 'Middle_7', 'Inner_6', 'Outer_9', 'Inner_1', 'Outer_8', 'Outer_3', 'Inner_0', 'Inner_8', 'Inner_3', 'Outer_4', 'Outer_6', 'Inner_2', 'Inner_9', 'Middle_9', 'Outer_7', 'Inner_7', 'Inner_4', 'Outer_5', 'Middle_6', 'Outer_0', 'Inner_5']
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_4', 'Inner_1', 'Outer_7', 'Inner_9', 'Middle_6', 'Middle_3', 'Outer_3', 'Inner_7', 'Inner_3', 'Inner_2', 'Middle_7', 'Outer_8', 'Inner_8', 'Inner_4', 'Middle_9', 'Outer_2', 'Outer_6', 'Outer_9', 'Inner_0', 'Middle_4', 'Inner_5', 'Inner_6', 'Outer_1', 'Outer_0', 'Middle_5', 'Outer_5', 'Middle_8']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_2', 'Middle_9', 'Inner_3', 'Outer_1', 'Inner_6', 'Inner_8', 'Middle_8', 'Outer_7', 'Inner_2', 'Middle_5', 'Outer_6', 'Outer_3', 'Outer_0', 'Middle_3', 'Inner_9', 'Inner_4', 'Inner_5', 'Inner_0', 'Outer_9', 'Inner_7', 'Outer_8', 'Outer_4', 'Middle_7', 'Outer_5', 'Inner_1', 'Middle_4', 'Middle_6']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Inner_7', 'Inner_0', 'Inner_9', 'Middle_4', 'Inner_2', 'Outer_3', 'Inner_1', 'Middle_7', 'Outer_9', 'Outer_0', 'Middle_5', 'Outer_6', 'Middle_9', 'Outer_7', 'Inner_5', 'Outer_2', 'Inner_8', 'Outer_8', 'Inner_6', 'Outer_4', 'Outer_5', 'Inner_4', 'Middle_8', 'Inner_3', 'Middle_6', 'Outer_1', 'Middle_3']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_2', 'Outer_9', 'Inner_3', 'Inner_0', 'Middle_6', 'Outer_6', 'Inner_4', 'Outer_5', 'Outer_7', 'Inner_8', 'Middle_7', 'Middle_3', 'Inner_9', 'Inner_2', 'Middle_9', 'Middle_8', 'Middle_5', 'Inner_7', 'Middle_4', 'Outer_0', 'Inner_6', 'Outer_4', 'Outer_1', 'Inner_5', 'Outer_8', 'Inner_1', 'Outer_3']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Inner_0', 'Middle_3', 'Outer_8', 'Middle_5', 'Outer_2', 'Outer_1', 'Middle_4', 'Outer_4', 'Inner_5', 'Inner_4', 'Inner_6', 'Outer_6', 'Outer_7', 'Inner_3', 'Inner_2', 'Inner_9', 'Outer_3', 'Outer_9', 'Inner_7', 'Inner_8', 'Middle_9', 'Middle_8', 'Middle_7', 'Middle_6', 'Outer_5', 'Outer_0', 'Inner_1']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_3', 'Outer_4', 'Inner_3', 'Outer_9', 'Middle_7', 'Inner_9', 'Outer_3', 'Inner_2', 'Inner_8', 'Middle_6', 'Outer_0', 'Outer_7', 'Middle_8', 'Inner_1', 'Outer_1', 'Outer_5', 'Middle_9', 'Inner_0', 'Inner_5', 'Outer_6', 'Inner_6', 'Outer_2', 'Middle_4', 'Inner_4', 'Middle_5', 'Outer_8', 'Inner_7']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_9', 'Inner_0', 'Inner_4', 'Outer_1', 'Outer_2', 'Middle_7', 'Inner_3', 'Middle_5', 'Inner_8', 'Inner_7', 'Outer_6', 'Inner_1', 'Middle_8', 'Inner_9', 'Outer_9', 'Outer_7', 'Inner_5', 'Outer_5', 'Middle_6', 'Outer_3', 'Outer_8', 'Outer_0', 'Inner_2', 'Outer_4', 'Inner_6', 'Middle_4', 'Middle_3']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Inner_4', 'Outer_0', 'Outer_5', 'Outer_4', 'Middle_8', 'Middle_4', 'Inner_7', 'Outer_7', 'Outer_2', 'Outer_6', 'Inner_1', 'Inner_5', 'Middle_5', 'Inner_6', 'Middle_9', 'Outer_9', 'Middle_3', 'Middle_7', 'Inner_2', 'Inner_9', 'Inner_3', 'Inner_0', 'Middle_6', 'Outer_3', 'Outer_8', 'Outer_1', 'Inner_8']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_9', 'Middle_5', 'Outer_6', 'Outer_2', 'Outer_7', 'Middle_4', 'Inner_6', 'Inner_7', 'Middle_7', 'Inner_4', 'Middle_8', 'Outer_8', 'Middle_6', 'Outer_9', 'Outer_4', 'Inner_0', 'Middle_3', 'Outer_1', 'Inner_1', 'Outer_3', 'Inner_2', 'Inner_8', 'Outer_5', 'Inner_3', 'Outer_0', 'Inner_9', 'Inner_5']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Inner_4', 'Inner_3', 'Inner_0', 'Outer_5', 'Middle_3', 'Inner_2', 'Middle_7', 'Outer_1', 'Middle_4', 'Middle_5', 'Outer_6', 'Inner_5', 'Outer_4', 'Inner_1', 'Inner_9', 'Middle_9', 'Outer_3', 'Inner_8', 'Outer_8', 'Outer_2', 'Inner_7', 'Outer_0', 'Outer_7', 'Middle_6', 'Inner_6', 'Outer_9', 'Middle_8']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_0', 'Inner_9', 'Outer_7', 'Inner_6', 'Outer_4', 'Inner_2', 'Outer_2', 'Middle_3', 'Midpoint', 'Outer_9', 'Inner_7', 'Middle_8', 'Middle_5', 'Outer_1', 'Middle_7', 'Inner_0', 'Outer_8', 'Inner_5', 'Middle_9', 'Outer_5', 'Inner_8', 'Outer_6', 'Inner_1', 'Middle_4', 'Inner_3', 'Middle_6', 'Outer_3', 'Inner_4']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_9', 'Inner_7', 'Outer_0', 'Outer_3', 'Middle_3', 'Outer_7', 'Middle_5', 'Outer_6', 'Outer_8', 'Inner_5', 'Inner_2', 'Outer_2', 'Middle_6', 'Inner_4', 'Outer_1', 'Midpoint', 'Inner_1', 'Middle_8', 'Middle_7', 'Outer_4', 'Inner_8', 'Inner_9', 'Middle_4', 'Outer_5', 'Outer_9', 'Inner_0', 'Inner_6', 'Inner_3']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_1', 'Middle_8', 'Outer_7', 'Middle_3', 'Middle_7', 'Outer_6', 'Outer_3', 'Outer_9', 'Inner_1', 'Outer_5', 'Inner_3', 'Outer_2', 'Outer_8', 'Outer_4', 'Inner_4', 'Inner_8', 'Outer_0', 'Middle_4', 'Inner_5', 'Inner_6', 'Inner_0', 'Inner_9', 'Inner_2', 'Middle_9', 'Middle_6', 'Midpoint', 'Inner_7', 'Middle_5']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_8', 'Inner_7', 'Middle_4', 'Outer_4', 'Middle_7', 'Inner_5', 'Outer_6', 'Inner_6', 'Middle_6', 'Outer_8', 'Outer_1', 'Outer_0', 'Outer_7', 'Inner_4', 'Outer_3', 'Inner_0', 'Inner_2', 'Middle_9', 'Middle_3', 'Inner_9', 'Inner_3', 'Outer_9', 'Inner_1', 'Inner_8', 'Outer_5', 'Middle_5', 'Midpoint', 'Outer_2']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_8', 'Inner_6', 'Middle_6', 'Outer_4', 'Middle_3', 'Outer_3', 'Outer_5', 'Middle_9', 'Middle_7', 'Midpoint', 'Outer_0', 'Inner_2', 'Inner_3', 'Outer_6', 'Inner_8', 'Inner_9', 'Inner_5', 'Inner_0', 'Inner_7', 'Inner_1', 'Outer_9', 'Outer_7', 'Inner_4', 'Outer_2', 'Middle_8', 'Middle_4', 'Outer_1', 'Middle_5']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_4', 'Midpoint', 'Inner_7', 'Inner_3', 'Outer_9', 'Middle_8', 'Inner_5', 'Middle_4', 'Middle_3', 'Outer_2', 'Inner_2', 'Inner_8', 'Outer_3', 'Inner_9', 'Middle_9', 'Middle_6', 'Outer_7', 'Middle_5', 'Outer_0', 'Outer_8', 'Inner_1', 'Outer_1', 'Middle_7', 'Inner_6', 'Inner_0', 'Outer_6', 'Outer_5', 'Inner_4']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Outer_4', 'Middle_3', 'Middle_8', 'Middle_5', 'Outer_3', 'Middle_7', 'Outer_1', 'Inner_3', 'Inner_0', 'Inner_9', 'Middle_9', 'Outer_2', 'Inner_7', 'Middle_4', 'Outer_0', 'Midpoint', 'Outer_7', 'Inner_1', 'Outer_9', 'Outer_8', 'Inner_5', 'Inner_6', 'Inner_8', 'Outer_6', 'Outer_5', 'Inner_2', 'Middle_6', 'Inner_4']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_7', 'Inner_8', 'Outer_8', 'Outer_7', 'Middle_4', 'Inner_1', 'Outer_0', 'Outer_6', 'Inner_4', 'Middle_6', 'Inner_2', 'Inner_7', 'Midpoint', 'Middle_9', 'Outer_4', 'Inner_6', 'Outer_3', 'Outer_2', 'Outer_1', 'Inner_0', 'Inner_3', 'Outer_5', 'Inner_5', 'Middle_8', 'Inner_9', 'Middle_3', 'Middle_5', 'Outer_9']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_SET_possibilities
+DEBUG:root:['Middle_9', 'Outer_0', 'Outer_5', 'Outer_1', 'Inner_1', 'Inner_5', 'Outer_9', 'Inner_2', 'Middle_7', 'Outer_3', 'Midpoint', 'Middle_4', 'Inner_0', 'Inner_9', 'Middle_8', 'Inner_7', 'Inner_4', 'Middle_6', 'Middle_3', 'Outer_8', 'Inner_6', 'Inner_3', 'Inner_8', 'Middle_5', 'Outer_6', 'Outer_2', 'Outer_4', 'Outer_7']
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.red
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
+DEBUG:root:In _enumerate_MOVE_possibilities for player Color.blue
