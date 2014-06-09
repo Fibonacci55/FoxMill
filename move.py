@@ -1,6 +1,7 @@
 class Move(object):
 
-    def __init__(self):
+    def __init__(self, stone):
+        self.stone = stone
         pass
 
     def __call__(self, board):
@@ -11,8 +12,7 @@ class Move(object):
 class SetStone(Move):
 
     def __init__(self, position, stone):
-        Move.__init__(self)
-        self.stone = stone
+        Move.__init__(self, stone)
         self.to_pos = position
 
     def __call__(self, game):
@@ -22,10 +22,11 @@ class SetStone(Move):
 
 class ShiftStone(Move):
 
-    def __init__(self, from_pos, to_pos):
-        super(ShiftStone, self).__init__()
+    def __init__(self, from_pos, to_pos, stone):
+        super(ShiftStone, self).__init__(stone)
         self.from_pos = from_pos
         self.to_pos = to_pos
+
 
     def __call__(self, game):
         assert (isinstance(game, FoxMill))
@@ -39,8 +40,8 @@ class ShiftStone(Move):
 
 class RemoveStone(Move):
 
-    def __init__(self, from_pos):
-        super(RemoveStone, self).__init__()
+    def __init__(self, from_pos, stone):
+        super(RemoveStone, self).__init__(stone)
         self.from_pos = from_pos
 
     def __call__(self, game):
