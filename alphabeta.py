@@ -128,7 +128,7 @@ def play_game(game, *players):
     >>> play_game(Fig52Game(), alphabeta_player, alphabeta_player)
     3
     """
-    state = game.initial
+    state = game #game.initial
     while True:
         for player in players:
             move = player(game, state)

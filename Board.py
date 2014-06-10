@@ -4,6 +4,7 @@
 import graph
 import copy
 import operator
+from alphabeta import play_game, alphabeta_player
 
 import logging
 
@@ -306,8 +307,11 @@ class FoxMill(Game):
                 moves.append(m)
         return moves
 
-    def result(self):
-        pass
+    def result(self, state, move):
+        new_game = copy.deepcopy(self)
+        move(new_game)
+        return new_game
+
 
     def utility(self, state, player):
         "Return the value of this final state to player."
@@ -342,8 +346,6 @@ class FoxMill(Game):
         """
         pass
 
-    def _in_mill(self, position):
-        pass
 
 
 if __name__ == "__main__":
@@ -405,7 +407,7 @@ if __name__ == "__main__":
     print("\n ======= \n")
 
     b.set(Position("Outer_2"), BlueSimple())
-    b.set(Position("Middle_2"), Blocker())
+    b.set(Position("Middle_2"), Blocker(color=Color.red))
     m = SetStone(Position("Inner_2"), Fox(color=Color.red))
     print("Would close FoxMill", f.would_close_mill(m))
 
@@ -414,4 +416,4 @@ if __name__ == "__main__":
     #print ("Remove", [j for j in l])
     #print (f.enumerate_set_possibilities().sort())
 
-
+    play_game(FoxMill(), alphabeta_player, alphabeta_player)

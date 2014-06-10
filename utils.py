@@ -2,6 +2,7 @@ import functools
 import operator
 import random
 
+from decimal import Decimal
 infinity = Decimal('Infinity')
 
 def removeall(item, seq):
